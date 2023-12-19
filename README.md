@@ -24,19 +24,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 - Build out each div/element out by scratch in vanilla JS
 - Style with flexbox
-- Match .jpg files with website/webpage
+- Match .jpg/.png files with website/webpage
 - Submit work
 
 ### Built with
 - HTML5
 - CSS custom properties
 - Flexbox
+- GitHub Pages
 
 ### What I learned
-After learning react, going back to vanilla HTML/CSS is a bit awkward and I had to relearn basic HTML5/CSS.
+After learning ReactJS, going back to vanilla HTML/CSS is a bit awkward and I had to relearn basic HTML5/CSS.
 
 ### Continued development
-I need to work on how flexbox works with vanilla JS when building a static site from scratch. In ths future this will be converted to a full ReactJS app. My CCS is also very rusty.
+I need to work on how flexbox works with vanilla JS when building a static site from scratch. In the future this will be converted to a full ReactJS app. My CCS is also very rusty.
 
 ### Useful resources
 - [GitHub Pages](https://pages.github.com/) - Learned how to deploy the static page to a live website on GitHub
