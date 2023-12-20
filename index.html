@@ -9,9 +9,8 @@
 		@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 		body { 
 			background: hsl(212, 45%, 89%);
-			height: 100%;
+			height: 100vh;
 			width: 100%;
-			margin: 15rem auto;
 			padding:0;
 			display: flex;
 			flex-direction: column;
@@ -27,6 +26,7 @@
 			border-radius: 20px;
 			height: 28.5rem;
 			width:18rem;
+      box-shadow: inset;
 		}
 
 		.qr-code { 
@@ -90,7 +90,7 @@
   </style>
 </head>
 <body>
- <div class="qr-card">
+ <main class="qr-card">
 		<div class="qr-code" >
 			<img 
 				src="./images/image-qr-code.png"
@@ -106,7 +106,7 @@
 				Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
 			</p>
 		</div>
- </div>  
+  </main>  
  <footer>
 		<div class="attribution">
 			Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 

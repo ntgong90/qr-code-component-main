@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: [ntgong90/qr-code-component-main](https://github.com/ntgong90/qr-code-component-main)
-- Live Site URL: [nickgong.github.io](https://ntgong90.github.io/nickgong.github.io/)
+- Live Site URL: [ntgong90.github.io/qr-code-component-main](https://ntgong90.github.io/qr-code-component-main/)
 
 ## My process
 - Build out each div/element out by scratch in vanilla JS
@@ -45,8 +45,8 @@ I need to work on how flexbox works with vanilla JS when building a static site 
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - First google result when trying to find a flexbox guide.  
 
 ## Author
-- Website - [Nicholas Gong](https://www.your-site.com)
-- Frontend Mentor - [@ntgong90](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Nicholas Gong](https://nicholasgong.netlify.app/)
+- Frontend Mentor - [@ntgong90](https://www.frontendmentor.io/profile/ntgong90)
 - Twitter - [@stopthegong](https://www.twitter.com/stopthegong)
 
 
